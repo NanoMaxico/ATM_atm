@@ -28,3 +28,6 @@ def main():
         new_user.withdrawl(amount)
     else:
         print("enter a valid number")
+
+if __name__ == "__main__":
+    main()
